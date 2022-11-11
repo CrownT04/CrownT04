@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrownT04
+- 👋 Hi, I’m @Oluwabukunmi
 - 👀 I’m interested in collaboration with good minds and people of similar interests.
 - 🌱 I’m currently learning frontend and Backend web developing.
 - 💞️ I’m looking to collaborate on new project and challenging Assignments.
